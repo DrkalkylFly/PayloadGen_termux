@@ -5,4 +5,14 @@ cd metasploit-framework
 
 git clone https://github.com/DrkalkylFly/bs_termux
 
-ruby bs_termux.rb
+cd bs_termux
+
+After that move the bs_termux.rb file to the metasploit-framework directory.
+For example 
+
+mv bs_termux.rb ~/metasploit-framework
+
+cd ..
+
+ruby bs_termux.rb 
+Have fun
