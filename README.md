@@ -15,4 +15,5 @@ mv bs_termux.rb ..
 cd ..
 
 ruby bs_termux.rb 
+
 Have fun
