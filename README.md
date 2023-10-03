@@ -10,7 +10,7 @@ cd bs_termux
 After that move the bs_termux.rb file to the metasploit-framework directory.
 For example 
 
-mv bs_termux.rb ~/metasploit-framework
+mv bs_termux.rb ..
 
 cd ..
 
